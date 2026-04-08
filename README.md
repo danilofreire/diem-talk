@@ -16,14 +16,14 @@ A guest talk for the DIEM Club (Decentralized Intelligence, Economics, and Marke
 Built with [Quarto](https://quarto.org/) and the `clean-revealjs` theme.
 
 ```bash
-quarto render diem-talk.qmd
+quarto render index.qmd
 ```
 
-Open `diem-talk.html` in a browser.
+Open `index.html` in a browser.
 
 ## Files
 
-- `diem-talk.qmd` — slide source
+- `index.qmd` — slide source
 - `figures/` — images (all CC-licensed from Wikimedia Commons and primary sources, credited on each slide)
 - `_extensions/` — Quarto theme extensions
 
