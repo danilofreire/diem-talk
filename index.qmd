@@ -52,7 +52,7 @@ if (!require("fontawesome", character.only = TRUE)) {
 
 :::: {.columns}
 ::: {.column}
-<img src="figures/profile.jpg" alt="Danilo Freire" width="200" height="200" align="center"/>
+[![](figures/profile.jpg){width="200"}](#){data-modal-type="image" data-modal-url="figures/profile.jpg"}
 
 ::: {style="font-size: 26px;"}
 `r fa('envelope')` [danilo.freire@emory.edu](mailto:danilo.freire@emory.edu)
@@ -92,7 +92,7 @@ if (!require("fontawesome", character.only = TRUE)) {
 :::
 
 ::: {.column width="55%"}
-<img src="figures/sequoia-600b.png" alt="Sequoia 600 billion revenue gap chart" width="100%"/>
+[![](figures/sequoia-600b.png){width="100%"}](#){data-modal-type="image" data-modal-url="figures/sequoia-600b.png"}
 
 ::: {style="font-size: 14px; color: #666;"}
 The gap between AI capex and AI revenue. Source: David Cahn, [Sequoia Capital (2024)](https://sequoiacap.com/article/ais-600b-question/)
@@ -119,7 +119,7 @@ The gap between AI capex and AI revenue. Source: David Cahn, [Sequoia Capital (2
 
 ::: {.column width="45%"}
 :::{style="margin-top: -30px;"}
-<img src="figures/sam-altman.jpg" alt="Sam Altman speaking at TED" width="100%"/>
+[![](figures/sam-altman.jpg){width="100%"}](#){data-modal-type="image" data-modal-url="figures/sam-altman.jpg"}
 
 ::: {style="font-size: 14px; color: #666;"}
 Sam Altman, CEO of OpenAI, whose single $110B raise accounted for over half of February 2026's record month. Photo: TED / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sam_Altman_speaking_at_TED_(cropped).jpg) (CC BY 4.0)
@@ -160,7 +160,7 @@ Sam Altman, CEO of OpenAI, whose single $110B raise accounted for over half of F
 :::
 
 ::: {.column width="45%"}
-<img src="figures/nvidia-h100.png" alt="NVIDIA H100 GPU" width="100%"/>
+[![](figures/nvidia-h100.png){width="100%"}](#){data-modal-type="image" data-modal-url="figures/nvidia-h100.png"}
 
 ::: {style="font-size: 14px; color: #666;"}
 NVIDIA H100, the chip your API calls are running on. Photo: Geekerwan / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NVIDIA_H100_(%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan)_001.png) (CC BY 4.0)
@@ -185,7 +185,7 @@ NVIDIA H100, the chip your API calls are running on. Photo: Geekerwan / [Wikimed
 
 ::: {.column width="45%"}
 :::{style="margin-top: -30px; text-align: center;"}
-<img src="figures/garry-tan.jpg" alt="Garry Tan, CEO of Y Combinator" width="60%"/>
+[![](figures/garry-tan.jpg){width="60%"}](#){data-modal-type="image" data-modal-url="figures/garry-tan.jpg"}
 
 ::: {style="font-size: 14px; color: #666;"}
 Garry Tan, CEO of Y Combinator. Photo: Web Summit / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Garry_Tan,_Web_Summit_2018,_November_6_SD5_6949_(45700698642)(portrait_4x3_crop).jpg) (CC BY 2.0)
@@ -292,7 +292,7 @@ The pattern: [pick a domain, own the workflow, compound the data]{.alert}
 
 ::: {.column width="45%"}
 :::{style="margin-top: -30px; text-align: center;"}
-<img src="figures/paul-graham.jpg" alt="Paul Graham, co-founder of Y Combinator" width="70%"/>
+[![](figures/paul-graham.jpg){width="70%"}](#){data-modal-type="image" data-modal-url="figures/paul-graham.jpg"}
 
 ::: {style="font-size: 14px; color: #666;"}
 Paul Graham, co-founder of Y Combinator. Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Paulgraham_240x320.jpg) (CC BY-SA 2.5)
@@ -319,7 +319,7 @@ Paul Graham, co-founder of Y Combinator. Photo: [Wikimedia Commons](https://comm
 
 ::: {.column width="45%"}
 :::{style="margin-top: -30px; text-align: center;"}
-<img src="figures/nyse-floor.jpg" alt="NYSE trading floor" width="100%"/>
+[![](figures/nyse-floor.jpg){width="100%"}](#){data-modal-type="image" data-modal-url="figures/nyse-floor.jpg"}
 
 ::: {style="font-size: 14px; color: #666;"}
 NYSE trading floor. Photo: Kevin Hutchinson / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NYSE_Advanced_Trading_Floor.jpg) (CC BY 2.0)
@@ -368,7 +368,7 @@ NYSE trading floor. Photo: Kevin Hutchinson / [Wikimedia Commons](https://common
 :::
 
 ::: {.column width="45%"}
-<img src="figures/medallion-returns.jpeg" alt="Medallion Fund vs S&P 500 annual returns 1988-2021" width="100%"/>
+[![](figures/medallion-returns.jpeg){width="100%"}](#){data-modal-type="image" data-modal-url="figures/medallion-returns.jpeg"}
 
 ::: {style="font-size: 14px; color: #666;"}
 Medallion Fund annual returns vs S&P 500, 1988-2021. Chart: [Of Dollars And Data](https://ofdollarsanddata.com/medallion-fund/). Data: Bradford Cornell
