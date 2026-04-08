@@ -437,7 +437,7 @@ A useful mental model: [AI is a research analyst who is fast, tireless, slightly
 ## Three takeaways
 ### The whole talk compressed into three sentences
 
-:::{style="font-size: 26px; margin-top: 40px;"}
+:::{style="font-size: 30px; margin-top: 40px;"}
 1. [AI startups]{.alert}: ignore the model, look at the moat. Ask about data, workflow, distribution, and unit economics. If any is missing, [walk away]{.alert}
 2. [AI in markets]{.alert}: it works, mostly as a research layer. The firms that actually beat the market are small, secretive, and decades in. [Your ChatGPT is not one of them]{.alert}
 3. [For you]{.alert}: the cheap, obvious applications are saturated. Real opportunities are where [you personally]{.alert} have data, distribution, or domain knowledge nobody else has
